@@ -25,7 +25,8 @@ Markdown 的目标是实现「易读易写」。
 
 ![avatar](https://pic3.zhimg.com/9b86b66fd57bc60d2223f7fa1a4d27c6_b.png)
 
-![avatar](http://upload-images.jianshu.io/upload_images/1779314-a59af5ad9c403d2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![avatar](http://upload-images.jianshu.io/upload_images/1779314-a59af5ad9c40
+3d2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## Markdown简要语法规则
 ### 标题
@@ -48,7 +49,9 @@ Markdown 的目标是实现「易读易写」。
 ```
 ***
 并且支持多行的引用
->Material Design 是专为设计适用于多个平台和设备的视觉、运动与互动效果而制定的综合指南。 如果要在您的 Android 应用中使用 Material Design，请遵循Material Design 规范内所述的指导方针，并使用 Android 5.0（API 级别 21）所提供的新组件与功能。
+>Material Design 是专为设计适用于多个平台和设备的视觉、运动与互动效果而制定的综合指南。 如果
+要在您的 Android 应用中使用 Material Design，请遵循Material Design 规范内所述的指导方针
+，并使用 Android 5.0（API 级别 21）所提供的新组件与功能。
 
 ```
 >Material Design 是专为设计适用于多个平台和设备的视觉、运动与互动效果而制定的综合指南。
@@ -57,7 +60,11 @@ Markdown 的目标是实现「易读易写」。
 ```
 ***
 或者嵌套引用
->CardView 扩展 FrameLayout 类并让您能够显示卡片内的信息，这些信息在整个平台中拥有一致的呈现方式。CardView 小部件可拥有阴影和圆角。如果要使用阴影创建卡片，请使用 card_view:cardElevation 属性。CardView 在 Android 5.0（API 级别 21）及更高版本中使用真实高度与动态阴影，而在早期的 Android 版本中则返回编程阴影实现。如需了解详细信息，请参阅保持兼容性使用这些属性自定义 CardView 小部件的外观：
+>CardView 扩展 FrameLayout 类并让您能够显示卡片内的信息，这些信息在整个平台中拥有一致的呈现
+方式。CardView 小部件可拥有阴影和圆角。如果要使用阴影创建卡片，请使用
+card_view:cardElevation 属性。CardView 在 Android 5.0（API 级别 21）及更高版本中使用
+真实高度与动态阴影，而在早期的 Android 版本中则返回编程阴影实现。如需了解详细信息，请参阅保持
+兼容性使用这些属性自定义 CardView 小部件的外观：
 >>如果要在您的布局中设置圆角半径，请使用 card_view:cardCornerRadius 属性。
 >>>下列代码示例将展示如何将 CardView 小部件包括在您的布局中
 
@@ -307,6 +314,7 @@ Atom工具介绍
 ## 将我的文档跟踪版本，并且发布发博客
 Markdown非常容易进行版本管理并且容易被发布，以便于社区使用与修改
 使用github发布markdown文档
+<https://github.com/AU4U/My-Design-Patterns-Notes>
 
 
 ## Markdown相关资源
