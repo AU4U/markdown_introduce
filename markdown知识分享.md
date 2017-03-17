@@ -4,6 +4,8 @@
 # Markdown使用精简介绍
 ## 概述
 
+Markdown是一门标记语言
+
 Markdown 的目标是实现「易读易写」。
 
 >一份使用 Markdown 格式撰写的文档应该可以直接以纯文本发布，并且看起来不会像是由许多标签或是格式指令所构成。
@@ -25,8 +27,7 @@ Markdown 的目标是实现「易读易写」。
 
 ![avatar](https://pic3.zhimg.com/9b86b66fd57bc60d2223f7fa1a4d27c6_b.png)
 
-![avatar](http://upload-images.jianshu.io/upload_images/1779314-a59af5ad9c40
-3d2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![avatar](http://upload-images.jianshu.io/upload_images/1779314-a59af5ad9c403d2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## Markdown简要语法规则
 ### 标题
@@ -301,20 +302,41 @@ https://sspai.com/post/27792
 
 
 并且Markdown被很多的网络编辑器，博客，网络日志支持
-简书，网易云笔记，印象笔记都能够使用Markdown格式来进行编辑。
+简书，网易云笔记，Stack Overflow，Reddit，印象笔记都能够使用Markdown格式来进行编辑。
 
 
 Atom：
 https://atom.io
-Atom工具介绍
+
+Atom插件介绍
 
 <http://www.jianshu.com/p/dd97cbb3c22d>
+
+
 <https://www.v2ex.com/t/249859>
 
 ## 将我的文档跟踪版本，并且发布发博客
 Markdown非常容易进行版本管理并且容易被发布，以便于社区使用与修改
-使用github发布markdown文档
+使用github发布markdown文档。将文档后缀名改为".md"。然后将文档push到github即可。
+
+使用markdown可以在github中轻易的发布教程或项目说明
+
+go语言教程
+https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md
+
+这个是我的markdown学习记录
 <https://github.com/AU4U/My-Design-Patterns-Notes>
 
 
-## Markdown相关资源
+## 参照
+markdown基本语法 http://daringfireball.net/projects/markdown/syntax
+
+markdown基本语法（中文） http://www.appinn.com/markdown/
+
+
+Atom插件介绍
+
+http://www.jianshu.com/p/dd97cbb3c22d
+
+
+https://www.zhihu.com/question/39938370
